@@ -1,3 +1,7 @@
+"""
+Utilizar el concepto de módulo necesariamente. Y escribir un programa para el
+manejo de listas el cuál cumplirá los siguientes requerimientos (2 ptos):
+"""
 import random
 
 def almacenar_numeros():
